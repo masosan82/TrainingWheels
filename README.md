@@ -113,7 +113,11 @@ Not yet verified:
 
 ## Download
 
-Alpha downloads will be provided through GitHub Releases when available.
+最新版のα版はGitHub Releasesからダウンロードできます。
+
+[Training Wheels v0.2.0-alpha](https://github.com/masosan82/TrainingWheels/releases/tag/v0.2.0-alpha)
+
+The latest alpha release is available from GitHub Releases.
 
 ## Documentation
 
