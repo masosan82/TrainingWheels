@@ -30,8 +30,6 @@ Official source URLs:
 
 The Training Wheels app icon is a custom icon created for this project and is not a Riot Games asset.
 
-Whether any additional notice is required for the icon's creation process has not been independently determined here.
-
 ## .NET and WPF notices
 
 The release archive includes the following unmodified Microsoft notices and license text. They are not duplicated in this file.

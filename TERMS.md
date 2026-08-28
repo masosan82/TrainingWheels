@@ -1,6 +1,6 @@
 # Alpha Terms
 
-> Draft for the Training Wheels alpha. This is not legal advice.
+These terms apply to the Training Wheels v0.2.0-alpha release.
 
 ## Alpha software
 
