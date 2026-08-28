@@ -6,7 +6,7 @@ It mirrors information already visible in the player's own HUD—Skills, Summone
 
 The goal is to be a temporary set of “training wheels”: players should eventually be able to play without the overlay.
 
-> This is a personal-development alpha. Supported environments and features are limited.
+> This is an early alpha release. Supported environments and features are limited.
 
 ## Screenshots
 
