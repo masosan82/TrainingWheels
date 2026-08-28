@@ -15,8 +15,8 @@ Training Wheels includes the following Lux ability icons for internal/debug skil
 - E: `LuxLightStrikeKugel`
 - R: `LuxR`
 
-Source: Riot Games Data Dragon  
-Data Dragon version: `16.17.1`  
+Source: Riot Games Data Dragon<br>
+Data Dragon version: `16.17.1`<br>
 Purpose: `SkillIconDetectionService` and debug-slot reference only
 
 Official source URLs:
@@ -34,4 +34,8 @@ Whether any additional notice is required for the icon's creation process has no
 
 ## .NET and WPF notices
 
-Notices for the .NET runtime, WPF, and included native components are provided separately in the release archive as `THIRD-PARTY-NOTICES.txt`. They are not duplicated in this file.
+The release archive includes the following unmodified Microsoft notices and license text. They are not duplicated in this file.
+
+- `THIRD-PARTY-NOTICES.txt` — .NET Runtime 10.0.11
+- `WPF-THIRD-PARTY-NOTICES.txt` — WPF 10.0.11
+- `DOTNET-LICENSE.txt` — MIT license text for the .NET Runtime and WindowsDesktop Runtime packages
