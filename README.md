@@ -121,6 +121,12 @@ Alpha downloads will be provided through GitHub Releases when available.
 - [Alpha terms](TERMS.md)
 - [Notices](NOTICE.md)
 
+## Riot Games developer registration
+
+Training Wheels is registered in the Riot Games Developer Portal.
+
+The project is designed to follow Riot Games' developer policies and third-party tool requirements. Registration does not mean that Training Wheels is endorsed, certified, or officially approved by Riot Games.
+
 ## Disclaimer
 
 This project is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties.
